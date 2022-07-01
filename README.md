@@ -1,6 +1,22 @@
 # Collab
 A small and simple collaboration app
 
+This is a humble effort to make a platform that can be readily used by the people for their collaboration needs without having to resort to a third party service or a middle man. The code of the project can very easily be hosted on any hosting provider along with their website or better integrated within their own sites and portals itself to give a complete and cohesive experience to their users. The project will be able to share information among the users with ease along with the added benefit of being self hosted. The project can do all the tasks expected from a standard messenger app.
+
+## Applications:
+
+The project code is very diverse and multi purpose and can be used in varied applications.
+
+The user may chose to run the code directly on their personal computers and devices or phones in the web interface which supports the running code and all of libraries and services proposed by the project as essential.
+
+The user may also chose to use the code of the project as a back end for a desktop application or android app or an application of any sort on any platform they wish to use for their day to day use of staying up to date with the world.
+
+The code can also be used as a substitute for all sorts of applications and the user may chose to run the code on theirs or another party Cloud Provider space or V.P.S. ( Virtual Private Server ) and make their connections to those services through any of the services they wish to use and then receive a notification on their devices whenever something new is found by the code in the user desired set of things.
+
+The code will mutable and updated regularly in order to maintain the code free of any sorts of problems although the creator of code takes no responsibility whatsoever of how the user chooses to run the code, for what purposes or on what devices and shall not be liable for providing any help in case things do not work as intended if the use of some other services remains in the domain of direct effect of the program execution.
+
+This project will make the live easier by providing them with a unified place to look, for all their collaboration needs.
+
 ## Modules Used:
 - React.js 
 - Chat Engine API
